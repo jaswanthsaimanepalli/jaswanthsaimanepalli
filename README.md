@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswanthsaimanepalli&label=Profile%20views&color=0e75b6&style=flat" alt="jaswanthsaimanepalli" /> </p>
 
-- 🌱 I’m currently studying B-Tech in **IIT Mandi**
+- 🌱 I’m currently studying B-Tech at **IIT Mandi**
 
-- 💬 I am learning **Algorithms** for competetive programming.
+- 💬 I am learning **Algorithms** for competitive programming.
 
 - 📫 Here's a way to raech me **manepallijaswanthsai@gmail.com**
 
