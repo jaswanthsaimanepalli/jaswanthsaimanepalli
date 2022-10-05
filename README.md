@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswanthsaimanepalli&label=Profile%20views&color=0e75b6&style=flat" alt="jaswanthsaimanepalli" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently studying B-Tech in **IIT Mandi**
 
-- 💬 Ask me about **Python,C++,Algorithms**
+- 💬 I am learning **Algorithms** for competetive programming.
 
-- 📫 How to reach me **manepallijaswanthsai@gmail.com**
+- 📫 Here's a way to raech me **manepallijaswanthsai@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Intrests: **Coding , Cricket , Dance**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
