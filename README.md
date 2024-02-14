@@ -7,7 +7,7 @@
 
 - 💬 I am learning **Algorithms** for competitive programming.
 
-- 📫 Here's a way to raech me **manepallijaswanthsai@gmail.com**
+- 📫 Here's a way to reach me **manepallijaswanthsai@gmail.com**
 
 - ⚡ Intrests: **Coding , Cricket , Dance**
 
